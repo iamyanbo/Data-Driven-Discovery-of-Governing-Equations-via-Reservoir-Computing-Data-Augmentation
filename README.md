@@ -10,23 +10,13 @@ A novel framework that combines Echo State Networks (ESNs) with Sparse Identific
 ## Table of Contents
 
 - [Overview](#overview)
-- [Key Innovation](#key-innovation)
+- [Motivation](#motivation)
 - [Methodology](#methodology)
-- [Features](#features)
 - [Installation](#installation)
-- [Quick Start](#quick-start)
-- [Configuration](#configuration)
 - [Output Visualizations](#output-visualizations)
-- [Performance Metrics](#performance-metrics)
-- [Supported Systems](#supported-systems)
-- [Use Cases](#use-cases)
-- [Examples](#examples)
-- [Results Interpretation](#results-interpretation)
-- [Advanced Configuration](#advanced-configuration)
-- [Troubleshooting](#troubleshooting)
-- [Citation](#citation)
+- [Results](#results)
 - [License](#license)
-- [Contributing](#contributing)
+- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
